@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831240541582",
+    "project_id": "startupodero-d6bff",
+    "storage_bucket": "startupodero-d6bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831240541582:android:29058836a9e8ce79c140df",
+        "android_client_info": {
+          "package_name": "com.example.startupoderero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831240541582-s2dki0j1psbhlo9lin3v80sh15vih2sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.startupoderero",
+            "certificate_hash": "a7b4f61a89dee551afa75430c75bcdbb309ed5c9"
+          }
+        },
+        {
+          "client_id": "831240541582-5f6jnc2nft46o7hgihl3f4cag0gl0m9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSbeaYgZU3e35QJn4MNgOOpYz8V-n758A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831240541582-5f6jnc2nft46o7hgihl3f4cag0gl0m9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
